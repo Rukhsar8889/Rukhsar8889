@@ -6,15 +6,15 @@ What I Do
 1- Build and customize responsive WordPress websites.  
 2- Optimize websites to rank higher on search engines.  
 3- Design intuitive interfaces and seamless user experiences.  
-4- Develop and find custom solutions or Addons
+4- Develop and find custom solutions or add-ons
 
 My Skills  
-- Tools:            Figma, Adobe XD, Photoshop, Sublime, Any other
+- Tools:            Figma, Adobe XD, Photoshop, Sublime, and Any other
 - Technical Skills: Software [UI/Ux Design], IT Infrastructure [Cloud Computing, Network Administrator]
 - Soft skills:      Time Management, Communication, Teamwork, Problem Solving, Project Management
 - Business Skills:  Project Management [Planning, Monitoring, Execution], Sales, Business Intelligence
 - Cloud Platform:   Google Cloud, Amazon Web Services [AWS], Microsoft Azure,  
-- CMS Platforms:    Magento, Shopify, Umbraco, Wix, WordPress, Godaddy, Webflow, Odoo
+- CMS Platforms:    Magento, Shopify, Umbraco, Wix, WordPress, GoDaddy, Webflow,
 - Programming:      PHP, WordPress (Advanced Custom Fields), HTML, CSS, JavaScript,
 
 
